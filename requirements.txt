@@ -1,1 +1,6 @@
-streamlit
+streamlit 
+streamlit-option-menu  
+keras 
+numpy
+tensorflow 
+pandas 
